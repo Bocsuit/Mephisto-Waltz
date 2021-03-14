@@ -1,2 +1,0 @@
-# Mephisto Waltz
-Backdoor virus
