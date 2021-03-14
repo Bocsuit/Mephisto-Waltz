@@ -1,2 +1,2 @@
 # Mephisto-Waltz
-Password Stealing Rootkit
+Rootkit used to conceal password stealer
